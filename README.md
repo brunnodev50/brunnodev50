@@ -8,23 +8,13 @@
 
 <br>
 
-<p>
-  <a href="#-sobre-mim">👨‍💻 Sobre</a> •
-  <a href="#-arsenal-tecnológico">🛠 Stack</a> •
-  <a href="#-portfólio-de-projetos">🚀 Projetos</a> •
-  <a href="#-setup--soft-skills">🧠 Skills</a> •
-  <a href="mailto:seuemail@exemplo.com">📫 Contato</a>
-</p>
-
-<br>
-
 <a href="https://www.linkedin.com/in/brunno-henrique-4a514b14a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/brunnodev50">
   <img src="https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:brunnohenrique50@outlook.com">
   <img src="https://img.shields.io/badge/Email-Falar_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
@@ -34,13 +24,6 @@
 ## 👨‍💻 Sobre Mim
 
 > 🚀 Desenvolvedor Full Stack apaixonado por criar ecossistemas completos. Do banco de dados à interface mobile, meu foco é **performance**, **arquitetura limpa** e **experiência do usuário**.
-
-<br>
-
-| 💼 Experiência | 🎓 Foco Atual | 🌍 Idiomas |
-| :---: | :---: | :---: |
-| **Full Stack Dev** | **Arquitetura de Software** | **Português (Nativo)** |
-| *Web, Mobile & Desktop* | *Inteligência Artificial* | *Inglês (Intermediário)* <br> *Alemão (Intermediário)* <br> *Espanhol (Intermediário)* |
 
 <br>
 
@@ -65,21 +48,6 @@
 
   <p><b>Banco de Dados & DevOps</b></p>
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase,git,github,linux,vscode&theme=dark" />
-
-</div>
-
-<br>
-<br>
-
-## 🧠 Setup & Soft Skills
-
-<div align="center">
-
-| 🖥️ Meu Setup | 🤝 Soft Skills | 🎨 Design |
-| :--- | :--- | :--- |
-| ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-Agile-blue?style=flat-square) | ![Figma](https://img.shields.io/badge/Figma-UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Team](https://img.shields.io/badge/Trabalho_em_Equipe-Success-green?style=flat-square) | ![Photoshop](https://img.shields.io/badge/Photoshop-Edição-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
-| ![Terminal](https://img.shields.io/badge/Powershell-Terminal-5391FE?style=flat-square&logo=powershell&logoColor=white) | ![Problem](https://img.shields.io/badge/Resolução_Problemas-Foco-orange?style=flat-square) | ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
 </div>
 
