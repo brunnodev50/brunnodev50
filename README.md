@@ -53,6 +53,24 @@
 <br>
 <br>
 
+<div align="center">
+  
+  <h3>💻 Meu Ambiente de Desenvolvimento</h3>
+  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+
+  <br><br>
+
+  <h3>📚 Estudando Atualmente</h3>
+  <img src="https://img.shields.io/badge/Foco-Arquitetura_de_Software-00bfbf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Inteligência_Artificial-00bfbf?style=for-the-badge" />
+
+</div>
+
+<br>
+<br>
+
 ## 🚀 Portfólio de Projetos
 
 <details>
