@@ -2,69 +2,84 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-# Olá! Eu sou o Brunno 👋
+# < Brunno Henrique />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+%26+Desktop;Python+%7C+Java+%7C+React+Native;Transformando+código+em+soluções!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+%26+Desktop+Solutions;Python+%7C+Java+%7C+React+Native;Construindo+o+Futuro+com+Código.)](https://git.io/typing-svg)
+
+<br>
+
+<p>
+  <a href="#-sobre-mim">👨‍💻 Sobre</a> •
+  <a href="#-arsenal-tecnológico">🛠 Stack</a> •
+  <a href="#-portfólio-de-projetos">🚀 Projetos</a> •
+  <a href="#-setup--soft-skills">🧠 Skills</a> •
+  <a href="mailto:seuemail@exemplo.com">📫 Contato</a>
+</p>
 
 <br>
 
 <a href="https://www.linkedin.com/in/brunno-henrique-4a514b14a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/brunnodev50">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Falar_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br>
 <br>
 
-## 💻 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-> Desenvolvedor Full Stack focado em criar ecossistemas completos. Do banco de dados ao mobile, priorizo performance e interfaces intuitivas. Atualmente desenvolvendo soluções robustas em **React Native**, **Python**, **Java** e **C++**.
+> 🚀 Desenvolvedor Full Stack apaixonado por criar ecossistemas completos. Do banco de dados à interface mobile, meu foco é **performance**, **arquitetura limpa** e **experiência do usuário**.
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-06fc-46a4-aca2-282a5c17926b.gif" width="100%" style="border-radius: 10px" alt="Coding Gif" />
+| 💼 Experiência | 🎓 Foco Atual | 🌍 Idiomas |
+| :---: | :---: | :---: |
+| **Full Stack Dev** | **Arquitetura de Software** | **Português (Nativo)** |
+| *Web, Mobile & Desktop* | *Inteligência Artificial* | *Inglês (Intermediário)* <br> *Alemão (Intermediário)* <br> *Espanhol (Intermediário)* |
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-06fc-46a4-aca2-282a5c17926b.gif" width="100%" style="border-radius: 8px" alt="Coding Gif" />
 
 <br>
 <br>
 
 ## 🛠 Arsenal Tecnológico
 
-**Linguagens de Programação**
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,cs&theme=dark" />
-
-<br>
-
-**Frameworks, Mobile & Web**
-<br>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nodejs&theme=dark" />
-
-<br>
-
-**Banco de Dados & Ferramentas**
-<br>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase,git,github,vscode,linux&theme=dark" />
-
-<br>
-<br>
-
 <div align="center">
   
-  <h3>💻 Meu Ambiente de Desenvolvimento</h3>
-  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <p><b>Linguagens Principais</b></p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,cs&theme=dark" />
+  
+  <br><br>
+
+  <p><b>Frameworks & Mobile</b></p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nodejs,tk&theme=dark" />
 
   <br><br>
 
-  <h3>📚 Estudando Atualmente</h3>
-  <img src="https://img.shields.io/badge/Foco-Arquitetura_de_Software-00bfbf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-Inteligência_Artificial-00bfbf?style=for-the-badge" />
+  <p><b>Banco de Dados & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase,git,github,linux,vscode&theme=dark" />
+
+</div>
+
+<br>
+<br>
+
+## 🧠 Setup & Soft Skills
+
+<div align="center">
+
+| 🖥️ Meu Setup | 🤝 Soft Skills | 🎨 Design |
+| :--- | :--- | :--- |
+| ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-Agile-blue?style=flat-square) | ![Figma](https://img.shields.io/badge/Figma-UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Team](https://img.shields.io/badge/Trabalho_em_Equipe-Success-green?style=flat-square) | ![Photoshop](https://img.shields.io/badge/Photoshop-Edição-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
+| ![Terminal](https://img.shields.io/badge/Powershell-Terminal-5391FE?style=flat-square&logo=powershell&logoColor=white) | ![Problem](https://img.shields.io/badge/Resolução_Problemas-Foco-orange?style=flat-square) | ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
 </div>
 
