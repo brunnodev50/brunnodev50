@@ -73,9 +73,9 @@
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**Condomínio Manager**](https://github.com/brunnodev50/sistema-condominio-python-tkinter-sqlite) | Sistema administrativo para gestão de condomínios. | `Tkinter` `SQLite` |
-| [**Bot Urna Eletrônica**](https://github.com/brunnodev50/bot-urna-eletronica-python-telegram) | Bot de votação em tempo real integrado ao Telegram. | `Telegram API` `Bot` |
-| [**Video Converter**](https://github.com/brunnodev50/conversor-video-py) | Ferramenta rápida para conversão e compressão de vídeos. | `FFmpeg` `Script` |
+| [**Condomínio Manager**](https://github.com/brunnodev50/sistema-condominio-python-tkinter-sqlite) | Sistema administrativo para gestão de condomínios. |`Python` `Tkinter` `SQLite` |
+| [**Bot Urna Eletrônica**](https://github.com/brunnodev50/bot-urna-eletronica-python-telegram) | Bot de votação em tempo real integrado ao Telegram. | `Python` `Telegram API` `Bot` `SQLite` |
+| [**Video Converter**](https://github.com/brunnodev50/conversor-video-py) | Ferramenta rápida para conversão e compressão de vídeos. | `Python` `FFmpeg` `Script` |
 <br>
 </details>
 
