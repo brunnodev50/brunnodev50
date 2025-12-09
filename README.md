@@ -1,11 +1,10 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 # Olá! Eu sou o Brunno 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+%26+Desktop;Apaixonado+por+Tecnologia;Seja+Bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+%26+Desktop;Python+%7C+Java+%7C+React+Native;Transformando+código+em+soluções!)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/brunno-henrique-4a514b14a/" target="_blank">
@@ -18,7 +17,13 @@
 
 <br>
 
-## 🛠 Arsenal Tecnológico
+## 💻 Sobre Mim
+
+> Desenvolvedor Full Stack focado em criar ecossistemas completos. Do banco de dados ao mobile, priorizo performance e interfaces intuitivas. Atualmente desenvolvendo soluções robustas em **React Native**, **Python**, **Java** e **C++**.
+
+<br>
+
+## 🛠 Tech Stack
 
 **Linguagens**
 <br>
@@ -46,76 +51,76 @@
 <br>
 <br>
 
-## 🚀 Meus Projetos
+## 🚀 Portfólio de Projetos
 
 <details>
-<summary><h3>📱 Projetos em React Native</h3></summary>
+<summary><h3>📱 React Native (Mobile)</h3></summary>
 <br>
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **Nexus Bank Mobile** | [Ver Repositório](https://github.com/brunnodev50/nexus-bank-mobile-react-native) | Aplicativo bancário completo com interface moderna. | `React Native` `Mobile` |
-| **Reprodutor de Vídeo** | [Ver Repositório](https://github.com/brunnodev50/reprodutor-video-react-native-com-apk) | Player de vídeo desenvolvido para Android (com APK). | `React Native` `Video` |
+| [**Nexus Bank**](https://github.com/brunnodev50/nexus-bank-mobile-react-native) | App bancário completo, simulação de transações e UI moderna. | `React Native` `TS` |
+| [**Video Player Pro**](https://github.com/brunnodev50/reprodutor-video-react-native-com-apk) | Reprodutor de vídeo nativo otimizado para Android (APK disponível). | `React Native` `Android` |
 <br>
 </details>
 
 <details>
-<summary><h3>🐍 Projetos em Python</h3></summary>
+<summary><h3>🐍 Python (Automação & Desktop)</h3></summary>
 <br>
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **Sistema de Condomínio** | [Ver Repositório](https://github.com/brunnodev50/sistema-condominio-python-tkinter-sqlite) | Gestão completa com interface gráfica desktop. | `Tkinter` `SQLite` |
-| **Bot Urna Eletrônica** | [Ver Repositório](https://github.com/brunnodev50/bot-urna-eletronica-python-telegram) | Sistema de votação automatizado via Telegram. | `Python` `Telegram API` |
-| **Conversor de Vídeo** | [Ver Repositório](https://github.com/brunnodev50/conversor-video-py) | Ferramenta para processamento e conversão de mídia. | `Python` `FFmpeg` |
+| [**Condomínio Manager**](https://github.com/brunnodev50/sistema-condominio-python-tkinter-sqlite) | Sistema administrativo para gestão de condomínios. | `Tkinter` `SQLite` |
+| [**Bot Urna Eletrônica**](https://github.com/brunnodev50/bot-urna-eletronica-python-telegram) | Bot de votação em tempo real integrado ao Telegram. | `Telegram API` `Bot` |
+| [**Video Converter**](https://github.com/brunnodev50/conversor-video-py) | Ferramenta rápida para conversão e compressão de vídeos. | `FFmpeg` `Script` |
 <br>
 </details>
 
 <details>
-<summary><h3>☕ Projetos em Java</h3></summary>
+<summary><h3>☕ Java (Sistemas Enterprise)</h3></summary>
 <br>
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **Hotel Master Pro** | [Ver Repositório](https://github.com/brunnodev50/hotel-master-pro-java-sqlite-nfce) | Sistema de gestão hoteleira com suporte a NFC-e. | `Java` `SQLite` `NFC-e` |
+| [**Hotel Master Pro**](https://github.com/brunnodev50/hotel-master-pro-java-sqlite-nfce) | ERP Hoteleiro completo com emissão de NFC-e e controle de reservas. | `Java Swing` `NFC-e` |
 <br>
 </details>
 
 <details>
-<summary><h3>⚡ Projetos em C++</h3></summary>
+<summary><h3>⚡ C++ (Alta Performance)</h3></summary>
 <br>
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **ClinicaPro C++** | [Ver Repositório](https://github.com/brunnodev50/ClinicaPro-Cpp) | Sistema de gerenciamento robusto para clínicas. | `C++` `OOP` |
+| [**ClinicaPro**](https://github.com/brunnodev50/ClinicaPro-Cpp) | Sistema de gestão clínica focado em velocidade e segurança de dados. | `C++` `STL` |
 <br>
 </details>
 
 <details>
-<summary><h3>🌐 Projetos Web</h3></summary>
+<summary><h3>🌐 Web (Frontend & Dashboards)</h3></summary>
 <br>
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **Bank Dashboard** | [Ver Repositório](https://github.com/brunnodev50/bank-frontend-dashboard) | Painel administrativo financeiro responsivo. | `Frontend` `Dashboard` |
-| **Fight Club Neon** | [Ver Repositório](https://github.com/brunnodev50/fight-club-neon-landing) | Landing page temática com efeitos neon. | `HTML` `CSS` `Neon` |
-| **JS Speedtest** | [Ver Repositório](https://github.com/brunnodev50/brunnodev50-vanilla-js-speedtest-html-css) | Teste de velocidade de internet leve e rápido. | `Vanilla JS` `HTML/CSS` |
+| [**Bank Dashboard**](https://github.com/brunnodev50/bank-frontend-dashboard) | Interface administrativa responsiva para finanças. | `Bootstrap` `JS` |
+| [**Fight Club Neon**](https://github.com/brunnodev50/fight-club-neon-landing) | Landing page imersiva com estética Cyberpunk/Neon. | `CSS3` `Effects` |
+| [**JS Speedtest**](https://github.com/brunnodev50/brunnodev50-vanilla-js-speedtest-html-css) | Medidor de velocidade de internet leve. | `Vanilla JS` |
 <br>
 </details>
 
 <br>
 <br>
-
-## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunnodev50&show_icons=true&theme=dark&icon_color=00bfbf&title_color=00bfbf&text_color=fff&bg_color=1a1b27&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnodev50&layout=compact&theme=dark&icon_color=00bfbf&title_color=00bfbf&text_color=fff&bg_color=1a1b27&hide_border=true&langs_count=6" height="180px" />
+
+  <h3>👀 Visitantes do Perfil</h3>
+  <img src="https://komarev.com/ghpvc/?username=brunnodev50&style=for-the-badge&color=00bfbf&label=VISUALIZAÇÕES" alt="Views" />
+
+  <br><br>
+
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=0d1117&hideBorder=true" alt="Jokes Card" />
+
 </div>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunnodev50&bg_color=1a1b27&color=00bfbf&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%">
 
 <br>
 
