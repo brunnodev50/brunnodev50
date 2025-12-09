@@ -62,7 +62,7 @@
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**Nexus Bank**](https://github.com/brunnodev50/nexus-bank-mobile-react-native) | App bancário completo, simulação de transações e UI moderna. | `React Native` `TS` |
+| [**Nexus Bank**](https://github.com/brunnodev50/nexus-bank-mobile-react-native) | App bancário completo, simulação de transações e UI moderna. | `React Native` `TS` `Banco de dados` `Android`|
 | [**Video Player Pro**](https://github.com/brunnodev50/reprodutor-video-react-native-com-apk) | Reprodutor de vídeo nativo otimizado para Android (APK disponível). | `React Native` `Android` |
 <br>
 </details>
@@ -85,7 +85,7 @@
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**Hotel Master Pro**](https://github.com/brunnodev50/hotel-master-pro-java-sqlite-nfce) | ERP Hoteleiro completo com emissão de NFC-e e controle de reservas. | `Java Swing` `NFC-e` |
+| [**Hotel Master Pro**](https://github.com/brunnodev50/hotel-master-pro-java-sqlite-nfce) | ERP Hoteleiro completo com emissão de NFC-e e controle de reservas. | `Java Swing` `NFC-e` `SQLite` |
 <br>
 </details>
 
@@ -95,7 +95,7 @@
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**ClinicaPro**](https://github.com/brunnodev50/ClinicaPro-Cpp) | Sistema de gestão clínica focado em velocidade e segurança de dados. | `C++` `STL` |
+| [**ClinicaPro**](https://github.com/brunnodev50/ClinicaPro-Cpp) | Sistema de gestão clínica focado em velocidade e segurança de dados. | `C++` `STL` `SQLite` |
 <br>
 </details>
 
@@ -105,9 +105,9 @@
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**Bank Dashboard**](https://github.com/brunnodev50/bank-frontend-dashboard) | Interface administrativa responsiva para finanças. | `Bootstrap` `JS` |
+| [**Bank Dashboard**](https://github.com/brunnodev50/bank-frontend-dashboard) | Interface administrativa responsiva para finanças. | `Bootstrap` `Vanilla JS`|
 | [**Fight Club Neon**](https://github.com/brunnodev50/fight-club-neon-landing) | Landing page imersiva com estética Cyberpunk/Neon. | `CSS3` `Effects` |
-| [**JS Speedtest**](https://github.com/brunnodev50/brunnodev50-vanilla-js-speedtest-html-css) | Medidor de velocidade de internet leve. | `Vanilla JS` |
+| [**JS Speedtest**](https://github.com/brunnodev50/brunnodev50-vanilla-js-speedtest-html-css) | Medidor de velocidade de internet leve. |`HTML` `CSS3` `Vanilla JS` |
 <br>
 </details>
 
