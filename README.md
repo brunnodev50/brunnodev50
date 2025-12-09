@@ -13,6 +13,9 @@
   <a href="https://github.com/brunnodev50">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <br>
@@ -25,28 +28,9 @@
 
 ## 🛠 Tech Stack
 
-**Linguagens**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-**Frontend & Mobile**
-<br>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-**Banco de Dados & Ferramentas**
-<br>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebird-cc0000?style=for-the-badge&logo=firebird&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,cs,react,html,css,bootstrap,sqlite,mysql,firebase,git,github,vscode&perline=8&theme=dark" />
+</div>
 
 <br>
 <br>
@@ -111,16 +95,11 @@
 <br>
 <br>
 
-<div align="center">
+## 📊 Atividade no GitHub
 
-  <h3>👀 Visitantes do Perfil</h3>
-  <img src="https://komarev.com/ghpvc/?username=brunnodev50&style=for-the-badge&color=00bfbf&label=VISUALIZAÇÕES" alt="Views" />
+<br>
 
-  <br><br>
-
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=0d1117&hideBorder=true" alt="Jokes Card" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunnodev50&bg_color=0d1117&color=00bfbf&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%">
 
 <br>
 
