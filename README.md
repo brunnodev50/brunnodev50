@@ -94,17 +94,6 @@
 | [**Hotel Master Pro**](https://github.com/brunnodev50/hotel-master-pro-java-sqlite-nfce) | ERP Hoteleiro completo com emissão de NFC-e e controle de reservas. | `Java Swing` `NFC-e` `SQLite` |
 | [**Java Swing Modern Cinema**](https://github.com/brunnodev50/Java-Swing-Modern-Cinema) | Sistema de gestão de cinema e bilheteria. | `Java Swing` `Dark UI` `SQLite` |
 <br>
-</details>
-
-<details>
-<summary><h3>⚡ C++ (Alta Performance)</h3></summary>
-<br>
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| [**ClinicaPro**](https://github.com/brunnodev50/ClinicaPro-Cpp) | Sistema de gestão clínica focado em velocidade e segurança de dados. | `C++` `STL` `SQLite` |
-<br>
-</details>
 
 <details>
 <summary><h3>🌐 Web (Frontend & Dashboards)</h3></summary>
