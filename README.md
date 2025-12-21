@@ -69,7 +69,8 @@
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**Nexus Bank**](https://github.com/brunnodev50/nexus-bank-mobile-react-native) | App bancário completo com simulação de transações e UI moderna. | `React Native` `Expo` |
+| [**Nexus Bank**](https://github.com/brunnodev50/nexus-bank-mobile-react-native) | App bancário completo com simulação de transações e UI moderna. | `React Native` `Expo` `SQLite` `TypeScript`|
+| [**SmartNutri**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicativo de montar dieta. | `React Native` `Expo` `SQLite` `SDK 51` `TypeScript` |
 | [**Video Player Pro**](https://github.com/brunnodev50/reprodutor-video-react-native-com-apk) | Reprodutor de vídeo nativo otimizado para Android. | `React Native` `Android` |
 <br>
 </details>
