@@ -73,7 +73,6 @@
 | [**SmartNutri**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicativo de montar dieta. | `React Native` `Expo` `SQLite` `TypeScript` |
 | [**IronPulse**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicação para gestão de treinos. | `React Native` `Expo` `SQLite` `TypeScript` |
 
-| [**Video Player Pro**](https://github.com/brunnodev50/reprodutor-video-react-native-com-apk) | Reprodutor de vídeo nativo otimizado para Android. | `React Native` `Android` |
 <br>
 </details>
 
