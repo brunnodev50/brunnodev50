@@ -72,6 +72,7 @@
 | [**Nexus Bank**](https://github.com/brunnodev50/nexus-bank-mobile-react-native) | App bancário completo com simulação de transações e UI moderna. | `React Native` `Expo` `SQLite` `TypeScript`|
 | [**SmartNutri**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicativo de montar dieta. | `React Native` `Expo` `SQLite` `TypeScript` |
 | [**IronPulse**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicação para gestão de treinos. | `React Native` `Expo` `SQLite` `TypeScript` |
+| [**React Native Chat Telegram Bot**](https://github.com/brunnodev50/react-native-chat-telegram-bot) | Atendimento via Bot do Telegram que roda inteiramente no dispositivo móvel. | `React Native` `Expo` `SQLite` `JavaScript` |
 
 <br>
 </details>
