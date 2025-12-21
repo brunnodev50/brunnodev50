@@ -97,6 +97,8 @@
 | [**Nextalent Job Board**](https://github.com/brunnodev50/nextalent-job-board) | Plataforma completa de recrutamento e vagas. | `PHP` `MySQL` `Bootstrap` |
 | [**Fight Club Neon**](https://github.com/brunnodev50/fight-club-neon-landing) | Landing page imersiva com estética Cyberpunk/Neon. | `CSS3` `JS` `Effects` |
 | [**Bank Dashboard**](https://github.com/brunnodev50/bank-frontend-dashboard) | Interface administrativa responsiva para finanças. | `Vanilla JS` `Bootstrap` |
+| [**NexTalent**](https://github.com/brunnodev50/nextalent-job-board) |  Plataforma de Recrutamento & Seleção. | `Bootstrap` `Vanilla JS` `PHP` `MySQL`|
+
 <br>
 </details>
 
