@@ -77,6 +77,7 @@
 | [**SmartNutri**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicativo de montagem de dietas com SDK Expo 51 e nova API SQLite síncrona. | `React Native` `Expo` `SQLite` `TypeScript` |
 | [**IronPulse**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicação para gestão de treinos com interface moderna. | `React Native` `Expo` `SQLite` `TypeScript` |
 | [**Vibol Chat**](https://github.com/brunnodev50/Vibol-Tele-Chat) | App de mensagens estilo Telegram com interface nativa. | `React Native` `Expo` |
+| [**PyExpo Chat Manager**](https://github.com/brunnodev50/PyExpo-Chat-Bot-Telegram-Manager) | App mobile para gerenciar remotamente o bot de atendimento no Telegram — respostas em tempo real via Wi-Fi. | `React Native` `Expo` |
 | [**RN Chat Telegram Bot**](https://github.com/brunnodev50/react-native-chat-telegram-bot) | Chatbot Telegram rodando no dispositivo para gestão de leads e suporte em tempo real. | `React Native` `Expo` `SQLite` `JavaScript` |
 | [**FullStack Auth**](https://github.com/brunnodev50/fullstack-auth-php-flutter) | Sistema de autenticação completo com API REST em PHP e frontend Flutter. | `Flutter` `Dart` `PHP` `MySQL` |
 
@@ -93,6 +94,7 @@
 | [**Sistema de Eleição 2026**](https://github.com/brunnodev50/sistema-de-eleicao-2026-telegram-python) | Sistema completo de votação eletrônica via Telegram com gestão de candidatos e partidos. | `Python` `Telegram API` `SQLite` |
 | [**Bot Urna Eletrônica**](https://github.com/brunnodev50/bot-urna-eletronica-python-telegram) | Bot de votação em tempo real com apuração e gestão de candidatos via Telegram. | `Python` `Telegram API` |
 | [**Telegram Video Scheduler**](https://github.com/brunnodev50/telegram-video-scheduler) | App desktop para agendamento e envio automático de vídeos para grupos do Telegram. | `Python` `Tkinter` `Telegram API` |
+| [**PyExpo Chat Bot Manager**](https://github.com/brunnodev50/PyExpo-Chat-Bot-Telegram-Manager) | Sistema híbrido de atendimento — bot Python captura leads 24/7 e app React Native permite gestão remota via Wi-Fi. | `Python` `Flask` `SQLite` `React Native` `Expo` |
 | [**Video Converter**](https://github.com/brunnodev50/conversor-video-py) | Ferramenta para conversão e compressão de vídeos via FFmpeg. | `Python` `FFmpeg` |
 | [**py-er-diagram**](https://github.com/brunnodev50/py-er-diagram) | Ferramenta visual de modelagem de BD — transforma SQL em diagramas ER interativos. | `Python` `SQL` |
 
@@ -126,7 +128,7 @@
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
 | [**Hotel Master Pro**](https://github.com/brunnodev50/hotel-master-pro-java-sqlite-nfce) | ERP Hoteleiro com emissão de NFC-e, gestão de reservas e relatórios em PDF. | `Java Swing` `SQLite` |
-| [**Sistema de Gestão**](https://github.com/brunnodev50/sistema-gestao) | Sistema comercial com PDV, controle de estoque e API REST integrada. | `Java Swing` `SQLite` `REST API` |
+| [**Sistema de Gestão**](https://github.com/brunnodev50/sistema-gestao) | ERP comercial fullstack — desktop Java + app mobile, com PDV, estoque, financeiro e autenticação via OTP. | `Java Swing` `SQLite` `REST API` `React Native` `Expo` |
 | [**Modern Cinema**](https://github.com/brunnodev50/Java-Swing-Modern-Cinema) | Sistema de gestão de bilheteria com tema Dark. | `Java Swing` `NetBeans` |
 
 <br>
