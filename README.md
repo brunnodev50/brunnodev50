@@ -4,7 +4,7 @@
 
 # < Brunno Henrique />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+%26+Desktop+Solutions;Python+%7C+PHP+%7C+React+Native;Transformando+ideias+em+código.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Support+Analyst;Mobile+%26+Desktop+Solutions;Python+%7C+PHP+%7C+React+Native+%7C+Flutter;Transformando+ideias+em+código.)](https://git.io/typing-svg)
 
 <br>
 
@@ -18,15 +18,19 @@
   <img src="https://img.shields.io/badge/Email-Falar_Comigo-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
 </a>
 
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=brunnodev50&color=00bfbf&style=for-the-badge&label=VISITAS+AO+PERFIL)
+
 </div>
 
 <br>
 
 ## 👨‍💻 Sobre Mim
 
-> 🚀 **Desenvolvedor Full Stack** graduado em Análise e Desenvolvimento de Sistemas.
+> 🚀 **Desenvolvedor Full Stack** & **Analista de Suporte** — graduado em Análise e Desenvolvimento de Sistemas.
 >
-> Especialista em criar ecossistemas completos, do banco de dados à interface do usuário. Tenho forte atuação no desenvolvimento de **aplicações Desktop** (Python/Java), **Sistemas Web** (PHP/JS) e **Soluções Mobile** (React Native). Apaixonado por interfaces modernas (Dark Mode/Neon) e código limpo.
+> Especialista em criar ecossistemas completos, do banco de dados à interface do usuário. Atuo no desenvolvimento de **aplicações Desktop** (Python/Java), **Sistemas Web** (PHP/JS/Vue), **Soluções Mobile** (React Native/Flutter) e **Bots & Automações** (Telegram API). Apaixonado por interfaces modernas com estética Dark/Neon e código limpo.
 
 <br>
 
@@ -42,7 +46,7 @@
 
 | Linguagens Principais | Frameworks & Mobile | Banco de Dados & Infra |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,php,java,js,ts&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,android&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=python,php,java,js,ts&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,vue,flutter,bootstrap,android&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux&theme=dark" /> |
 
 </div>
 
@@ -64,41 +68,53 @@
 ## 🚀 Portfólio de Projetos
 
 <details open>
-<summary><h3>📱 React Native (Mobile)</h3></summary>
+<summary><h3>📱 React Native & Flutter (Mobile)</h3></summary>
 <br>
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**Nexus Bank**](https://github.com/brunnodev50/nexus-bank-mobile-react-native) | App bancário completo com simulação de transações e UI moderna. | `React Native` `Expo` `SQLite` `TypeScript`|
-| [**SmartNutri**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicativo de montar dieta. | `React Native` `Expo` `SQLite` `TypeScript` |
-| [**IronPulse**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicação para gestão de treinos. | `React Native` `Expo` `SQLite` `TypeScript` |
-| [**React Native Chat Telegram Bot**](https://github.com/brunnodev50/react-native-chat-telegram-bot) | Atendimento via Bot do Telegram que roda inteiramente no dispositivo móvel. | `React Native` `Expo` `SQLite` `JavaScript` |
+| [**Nexus Bank**](https://github.com/brunnodev50/nexus-bank-mobile-react-native) | App bancário completo com gerador de cartão virtual, simulação de Pix/Boleto e UI Dark Mode. | `React Native` `Expo` `SQLite` `TypeScript` |
+| [**SmartNutri**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicativo de montagem de dietas com SDK Expo 51 e nova API SQLite síncrona. | `React Native` `Expo` `SQLite` `TypeScript` |
+| [**IronPulse**](https://github.com/brunnodev50/Expo-Diet-SQLite) | Aplicação para gestão de treinos com interface moderna. | `React Native` `Expo` `SQLite` `TypeScript` |
+| [**Vibol Chat**](https://github.com/brunnodev50/Vibol-Tele-Chat) | App de mensagens estilo Telegram com interface nativa. | `React Native` `Expo` |
+| [**RN Chat Telegram Bot**](https://github.com/brunnodev50/react-native-chat-telegram-bot) | Chatbot Telegram rodando no dispositivo para gestão de leads e suporte em tempo real. | `React Native` `Expo` `SQLite` `JavaScript` |
+| [**FullStack Auth**](https://github.com/brunnodev50/fullstack-auth-php-flutter) | Sistema de autenticação completo com API REST em PHP e frontend Flutter. | `Flutter` `Dart` `PHP` `MySQL` |
 
 <br>
 </details>
 
 <details>
-<summary><h3>🐍 Python (Automação & Desktop)</h3></summary>
+<summary><h3>🐍 Python (Automação, Desktop & Bots)</h3></summary>
 <br>
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
 | [**Condomínio Manager**](https://github.com/brunnodev50/sistema-condominio-python-tkinter-sqlite) | Sistema administrativo para gestão completa de condomínios. | `Tkinter` `SQLite` |
-| [**Bot Urna Eletrônica**](https://github.com/brunnodev50/bot-urna-eletronica-python-telegram) | Bot de votação em tempo real integrado à API do Telegram. | `Python` `Telegram API` |
-| [**Video Converter**](https://github.com/brunnodev50/conversor-video-py) | Ferramenta rápida para conversão e compressão de vídeos via FFmpeg. | `Python` `FFmpeg` |
+| [**Sistema de Eleição 2026**](https://github.com/brunnodev50/sistema-de-eleicao-2026-telegram-python) | Sistema completo de votação eletrônica via Telegram com gestão de candidatos e partidos. | `Python` `Telegram API` `SQLite` |
+| [**Bot Urna Eletrônica**](https://github.com/brunnodev50/bot-urna-eletronica-python-telegram) | Bot de votação em tempo real com apuração e gestão de candidatos via Telegram. | `Python` `Telegram API` |
+| [**Telegram Video Scheduler**](https://github.com/brunnodev50/telegram-video-scheduler) | App desktop para agendamento e envio automático de vídeos para grupos do Telegram. | `Python` `Tkinter` `Telegram API` |
+| [**Video Converter**](https://github.com/brunnodev50/conversor-video-py) | Ferramenta para conversão e compressão de vídeos via FFmpeg. | `Python` `FFmpeg` |
+| [**py-er-diagram**](https://github.com/brunnodev50/py-er-diagram) | Ferramenta visual de modelagem de BD — transforma SQL em diagramas ER interativos. | `Python` `SQL` |
+
 <br>
 </details>
 
 <details>
-<summary><h3>🌐 Web & Backend (PHP/JS)</h3></summary>
+<summary><h3>🌐 Web & Backend (PHP / JS / Vue)</h3></summary>
 <br>
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
+| [**Synapse Cyberpunk**](https://github.com/brunnodev50/synapse-cyberpunk-landing) | Landing page de loja gamer com efeitos neon, glitch e estética cyberpunk pura. | `HTML5` `CSS3` `JS` |
 | [**Nextalent Job Board**](https://github.com/brunnodev50/nextalent-job-board) | Plataforma completa de recrutamento e vagas. | `PHP` `MySQL` `Bootstrap` |
-| [**Fight Club Neon**](https://github.com/brunnodev50/fight-club-neon-landing) | Landing page imersiva com estética Cyberpunk/Neon. | `CSS3` `JS` `Effects` |
+| [**Landing Vagas SASS**](https://github.com/brunnodev50/landing-page-vagas-sass) | Interface de recrutamento responsiva com arquitetura SASS escalável e JS semântico. | `HTML` `SASS` `Vanilla JS` |
+| [**TaskFlow**](https://github.com/brunnodev50/taskflow-vue-web) | Aplicação de gerenciamento de tarefas construída com Vue.js. | `Vue.js` `JavaScript` |
+| [**Fósforo Interativo**](https://github.com/brunnodev50/fosforo-interativo) | Simulação de fósforo com física de chama, faíscas, brasas e áudio procedural. | `JavaScript` `Canvas API` |
+| [**WebCam Filter Studio**](https://github.com/brunnodev50/WebCam-Filter-Studio) | PWA para manipulação de filtros de câmera em tempo real no navegador. | `HTML5` `Canvas API` `JS` |
+| [**DocBrasil Consulta**](https://github.com/brunnodev50/DocBrasil-Consulta-and-CNPJ-WEB) | Validação de CPF/CNPJ com consulta em tempo real à Receita Federal. | `HTML5` `JS` `Bootstrap` |
+| [**Fight Club Neon**](https://github.com/brunnodev50/fight-club-neon-landing) | Landing page imersiva com estética Cyberpunk/Neon. | `CSS3` `JS` |
 | [**Bank Dashboard**](https://github.com/brunnodev50/bank-frontend-dashboard) | Interface administrativa responsiva para finanças. | `Vanilla JS` `Bootstrap` |
-| [**Cosmos Web**](https://github.com/brunnodev50/projeto-cosmos-web) |  Simulação estelar em tempo real. | `Three.js` `HTM5` `CSS3` `GLSL` `RGBELoader`|
+| [**Cosmos Web**](https://github.com/brunnodev50/projeto-cosmos-web) | Simulação estelar em tempo real com shaders GLSL. | `Three.js` `HTML5` `CSS3` `GLSL` |
 
 <br>
 </details>
@@ -109,8 +125,10 @@
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| [**Hotel Master Pro**](https://github.com/brunnodev50/hotel-master-pro-java-sqlite-nfce) | ERP Hoteleiro com emissão de NFC-e e reservas. | `Java Swing` `SQLite` |
+| [**Hotel Master Pro**](https://github.com/brunnodev50/hotel-master-pro-java-sqlite-nfce) | ERP Hoteleiro com emissão de NFC-e, gestão de reservas e relatórios em PDF. | `Java Swing` `SQLite` |
+| [**Sistema de Gestão**](https://github.com/brunnodev50/sistema-gestao) | Sistema comercial com PDV, controle de estoque e API REST integrada. | `Java Swing` `SQLite` `REST API` |
 | [**Modern Cinema**](https://github.com/brunnodev50/Java-Swing-Modern-Cinema) | Sistema de gestão de bilheteria com tema Dark. | `Java Swing` `NetBeans` |
+
 <br>
 </details>
 
