@@ -1,71 +1,123 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Brunno%20Henrique&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Support%20Analyst&descAlignY=58&descSize=20"/>
 
-# < Brunno Henrique />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Support+Analyst;Mobile+%26+Desktop+Solutions;Python+%7C+PHP+%7C+React+Native+%7C+Flutter;Transformando+ideias+em+código.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=24&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Support+Analyst;Mobile+%26+Desktop+Solutions;Python+%7C+PHP+%7C+React+Native+%7C+Flutter;Bots+%26+Automações+com+Telegram+API;Transformando+ideias+em+código.)](https://git.io/typing-svg)
 
 <br>
 
 <a href="https://www.linkedin.com/in/brunno-henrique-4a514b14a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/brunnodev50">
-  <img src="https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:brunnohenrique50@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Falar_Comigo-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
 
 <br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brunnodev50&color=00bfbf&style=for-the-badge&label=VISITAS+AO+PERFIL)
+![GitHub followers](https://img.shields.io/github/followers/brunnodev50?style=for-the-badge&color=00bfbf&labelColor=0d1117&label=SEGUIDORES)
+![GitHub User's stars](https://img.shields.io/github/stars/brunnodev50?style=for-the-badge&color=00bfbf&labelColor=0d1117&label=ESTRELAS)
 
 </div>
 
-<br>
+---
 
 ## 👨‍💻 Sobre Mim
 
-> 🚀 **Desenvolvedor Full Stack** & **Analista de Suporte** — graduado em Análise e Desenvolvimento de Sistemas.
->
-> Especialista em criar ecossistemas completos, do banco de dados à interface do usuário. Atuo no desenvolvimento de **aplicações Desktop** (Python/Java), **Sistemas Web** (PHP/JS/Vue), **Soluções Mobile** (React Native/Flutter) e **Bots & Automações** (Telegram API). Apaixonado por interfaces modernas com estética Dark/Neon e código limpo.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-06fc-46a4-aca2-282a5c17926b.gif" width="360" />
 
-<br>
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-06fc-46a4-aca2-282a5c17926b.gif" width="100%" style="border-radius: 8px; max-height: 200px; object-fit: cover;" alt="Coding Gif" />
-</div>
+💼 **Full Stack Developer** & **Analista de Suporte**
 
-<br>
+🖥️ Especialista em **Desktop** com Python e Java
+
+📱 **Mobile** com React Native, Expo e Flutter
+
+🌐 **Web** com PHP, JavaScript e Vue.js
+
+🤖 **Bots & Automações** via Telegram API
+
+🎨 Apaixonado por estética **Dark Mode / Neon / Cyberpunk**
+
+📦 **42 repositórios** públicos no GitHub
+
+<br clear="right"/>
+
+---
 
 ## 🛠 Arsenal Tecnológico
 
 <div align="center">
 
-| Linguagens Principais | Frameworks & Mobile | Banco de Dados & Infra |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,php,java,js,ts&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,vue,flutter,bootstrap,android&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux&theme=dark" /> |
+**— Linguagens —**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**— Frameworks & Mobile —**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**— Banco de Dados & Infra —**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<br>
+---
 
 ## 📊 Estatísticas
 
-> *Nota: As linguagens abaixo são calculadas automaticamente com base nos repositórios públicos.*
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnodev50&show_icons=true&theme=transparent&hide_border=true&title_color=00bfbf&text_color=ffffff&icon_color=00bfbf&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnodev50&layout=compact&theme=transparent&hide_border=true&title_color=00bfbf&text_color=ffffff&icon_color=00bfbf&bg_color=0d1117&hide=jupyter%20notebook,tex,makefile,css,html"/>
+</div>
 
 <div align="center">
-  <a href="https://github.com/brunnodev50">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnodev50&show_icons=true&theme=transparent&hide_border=true&title_color=00bfbf&text_color=ffffff&icon_color=00bfbf&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnodev50&layout=compact&theme=transparent&hide_border=true&title_color=00bfbf&text_color=ffffff&icon_color=00bfbf&bg_color=0d1117&hide=jupyter%20notebook,tex,makefile,css,html"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brunnodev50&theme=transparent&hide_border=true&stroke=00bfbf&ring=00bfbf&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=888888&background=0d1117" />
 </div>
 
 <br>
 
-## 🚀 Portfólio de Projetos
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brunnodev50&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+## ⭐ Projetos em Destaque
+
+<div align="center">
+
+[![Nexus Bank](https://github-readme-stats.vercel.app/api/pin/?username=brunnodev50&repo=nexus-bank-mobile-react-native&theme=transparent&hide_border=true&title_color=00bfbf&text_color=ffffff&icon_color=00bfbf&bg_color=0d1117)](https://github.com/brunnodev50/nexus-bank-mobile-react-native)
+[![Hotel Master Pro](https://github-readme-stats.vercel.app/api/pin/?username=brunnodev50&repo=hotel-master-pro-java-sqlite-nfce&theme=transparent&hide_border=true&title_color=00bfbf&text_color=ffffff&icon_color=00bfbf&bg_color=0d1117)](https://github.com/brunnodev50/hotel-master-pro-java-sqlite-nfce)
+[![Condomínio Manager](https://github-readme-stats.vercel.app/api/pin/?username=brunnodev50&repo=sistema-condominio-python-tkinter-sqlite&theme=transparent&hide_border=true&title_color=00bfbf&text_color=ffffff&icon_color=00bfbf&bg_color=0d1117)](https://github.com/brunnodev50/sistema-condominio-python-tkinter-sqlite)
+[![Sistema de Gestão](https://github-readme-stats.vercel.app/api/pin/?username=brunnodev50&repo=sistema-gestao&theme=transparent&hide_border=true&title_color=00bfbf&text_color=ffffff&icon_color=00bfbf&bg_color=0d1117)](https://github.com/brunnodev50/sistema-gestao)
+
+</div>
+
+---
+
+## 🚀 Portfólio Completo
 
 <details open>
 <summary><h3>📱 React Native & Flutter (Mobile)</h3></summary>
@@ -134,14 +186,12 @@
 <br>
 </details>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunnodev50&theme=react-dark&bg_color=0D1117&hide_border=true&color=00bfbf" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunnodev50&theme=react-dark&bg_color=0D1117&hide_border=true&color=00bfbf&line=00bfbf&point=ffffff" width="100%" />
 </div>
 
-<br>
-
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 </div>
